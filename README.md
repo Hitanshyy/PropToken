@@ -62,23 +62,23 @@ npm install
 npx hardhat compile
 ```
 5. Deployment
-Deploy PropertyDeed:
+   Deploy PropertyDeed:
 ```bash
 npx hardhat run --network sepolia scripts/deployPropertyDeed.js
 ```
-Deploy TokenizationManager:
+   Deploy TokenizationManager:
 ``` bash
 npx hardhat run --network sepolia scripts/deployTokenizationManager.js
 ```
-Tokenize a Property:
+   Tokenize a Property:
 ``` bash
 npx hardhat run --network sepolia scripts/tokenizeProperty.js
 ```
-Start Fraction Distribution:
+  Start Fraction Distribution:
 ```bash
 npx hardhat run --network sepolia scripts/startDistribution.js
 ```
-Buy Fractions (as a user):
+  Buy Fractions (as a user):
 ```bash
 npx hardhat run --network sepolia scripts/buyFractions.js
 ```

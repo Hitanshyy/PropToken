@@ -1,0 +1,15 @@
+await PropertyDeed.owner();
+);
+  "0x2525c07e28245D67e80a16472A0A127C413F4174"
+  "PropertyDeed",
+const PropertyDeed = await ethers.getContractAt(
+// Cheawait PropertyDeed.owner();
+);
+  "0x2525c07e28245D67e80a16472A0A127C413F4174"
+const PropertyDeed = awa  "PropertyDeed",
+// Attach to PropertyDeed
+await TokenizationManager.owner();
+);
+  "0x5961A0898CD5ca6781f2435018dAC770f65aa212"
+  "TokenizationManager",
+const TokenizationManager = await ethers.getContractAt(

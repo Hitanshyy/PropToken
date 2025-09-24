@@ -94,13 +94,13 @@ Tests cover:
 3.Tokenizing properties and transferring fractions
 
 Technology Stack
-1.Solidity 0.8.20
-2.Hardhat
-3.Ethers.js
-4.OpenZeppelin (ERC721 & ERC20)
-5.Sepolia Testnet
+- 1.Solidity 0.8.20
+- 2.Hardhat
+- 3.Ethers.js
+- 4.OpenZeppelin (ERC721 & ERC20)
+- 5.Sepolia Testnet
 
 Future Improvements
-1.Implement KYC verification for buyers
-2.Add a web-based front-end
-3.Integrate real property metadata and off-chain storage (IPFS)
+- 1.Implement KYC verification for buyers
+- 2.Add a web-based front-end
+- 3.Integrate real property metadata and off-chain storage (IPFS)

@@ -89,18 +89,18 @@ npx hardhat test
 ```
 
 Tests cover:
-1.Minting property NFTs
-2.Deploying and verifying fractional ERC20 tokens
-3.Tokenizing properties and transferring fractions
+- Minting property NFTs
+- Deploying and verifying fractional ERC20 tokens
+- Tokenizing properties and transferring fractions
 
 Technology Stack
-- 1.Solidity 0.8.20
-- 2.Hardhat
-- 3.Ethers.js
-- 4.OpenZeppelin (ERC721 & ERC20)
-- 5.Sepolia Testnet
+- Solidity 0.8.20
+- Hardhat
+- Ethers.js
+- OpenZeppelin (ERC721 & ERC20)
+- Sepolia Testnet
 
 Future Improvements
-- 1.Implement KYC verification for buyers
-- 2.Add a web-based front-end
-- 3.Integrate real property metadata and off-chain storage (IPFS)
+- Implement KYC verification for buyers
+- Add a web-based front-end
+- Integrate real property metadata and off-chain storage (IPFS)
